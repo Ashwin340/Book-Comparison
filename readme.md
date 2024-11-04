@@ -75,6 +75,6 @@ Special thanks to:
 - Project collaborators for their valuable input
 
 ---
-*Created with ❤️ by a passionate programmer*
+
 
 *Submittion from* - ##IITGCS-24061237(Ashwin A S)
